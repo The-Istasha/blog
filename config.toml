@@ -22,3 +22,4 @@ author = "Istasha"
 email = "67969809+The-Istasha@users.noreply.github.com"
 github = "https://github.com/The-Istasha"
 // 2025-01-12 — New post: constant-time comparison and why your equality operator leaks
+// 2026-01-25 — Migrate templates to Tera inheritance and reduce duplication
